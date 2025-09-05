@@ -5,7 +5,7 @@ import vueDevTools from "vite-plugin-vue-devtools";
 import { ManifestOptions, VitePWA } from "vite-plugin-pwa";
 
 const manifest: Partial<ManifestOptions> | false = {
-  theme_color: "#85adff",
+  theme_color: "#fff",
   background_color: "#595959",
   icons: [
     { purpose: "maskable", sizes: "512x512", src: "icon512_maskable.png", type: "image/png" },
