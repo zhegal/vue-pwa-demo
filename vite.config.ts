@@ -24,8 +24,8 @@ const manifest: Partial<ManifestOptions> | false = {
   display: "standalone",
   dir: "ltr",
   lang: "en-US",
-  name: "MIX",
-  short_name: "MIX",
+  name: "My PWA Demo App",
+  short_name: "PWA Demo",
   start_url: "/",
 };
 
